@@ -1,0 +1,10 @@
+
+Activity: Temperature Converter
+
+Statement:  Create a function that converts temperatures between Celsius and Fahrenheit scales.
+
+Celsius to Fahrenheit:
+
+(Tc x 9/5) + 32 = Tf
+(Tf - 32) x 5/9 = Tc
+
