@@ -1,6 +1,6 @@
 
 how to use:
-```bash
+```
  ruby c_to_f.rb "454.5555"
  ruby f_to_c.rb "234.1944"
 ```
